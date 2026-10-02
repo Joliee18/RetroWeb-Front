@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="retrowebfront.client/retrowebfront.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="RetroWebFront.Server/RetroWebFront.Server.csproj" />
+</Solution>

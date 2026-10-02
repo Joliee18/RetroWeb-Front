@@ -1,0 +1,6 @@
+@RetroWebFront.Server_HostAddress = http://localhost:5082
+
+GET {{RetroWebFront.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
